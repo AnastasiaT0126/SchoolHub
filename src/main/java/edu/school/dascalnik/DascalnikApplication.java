@@ -8,6 +8,7 @@ public class DascalnikApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DascalnikApplication.class, args);
+		System.out.print("Test git");
 	}
 
 }
